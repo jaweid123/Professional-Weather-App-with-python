@@ -88,5 +88,6 @@ weather-app/
 🖥 Convert to .exe desktop application
 
 👨‍💻 Author
+#jaweid #Moraadi
 
 Developed with ❤️ using Python
